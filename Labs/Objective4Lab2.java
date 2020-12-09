@@ -1,6 +1,8 @@
+import java.util.Scanner;
+
 public class Objective4Lab2 {
   public static void main(String[] args) {
-    java.util.Scanner keyboard = new java.util.Scanner(System.in);
+        Scanner keyboard = new Scanner(System.in);
 
     int num1 = 0, num2 = 0, num3 = 0;
     double dub1 = 0.0, dub2 = 0.0, dub3 = 0.0;
