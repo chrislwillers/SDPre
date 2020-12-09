@@ -23,11 +23,5 @@ public class Objective4Lab1 {
     System.out.println("My favorite animal is " + favoriteAnimal + ".");
     System.out.println("My favorite food is " + favoriteFood + ".");
     System.out.println("My favorite song is " + favoriteSong + ".");
-
-
-
-
-    //System.out.println("Please type something in!");
-//String userInput = keyboard.nextLine();
   }
 }
