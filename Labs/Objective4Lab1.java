@@ -1,6 +1,8 @@
+import java.util.Scanner;
+
 public class Objective4Lab1 {
   public static void main(String[] args) {
-    java.util.Scanner keyboard = new java.util.Scanner(System.in);
+    Scanner keyboard = new Scanner(System.in);
 
     String fname = "";
     String lname = "";
